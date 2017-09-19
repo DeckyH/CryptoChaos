@@ -30,5 +30,5 @@ contract BetMarket {
     
     function matchBet() {}
     
-    
+    // comment
 }
